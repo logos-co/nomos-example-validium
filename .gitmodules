@@ -1,0 +1,3 @@
+[submodule "zksync-era"]
+	path = zksync-era
+	url = https://github.com/logos-co/zksync-era
